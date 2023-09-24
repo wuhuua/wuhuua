@@ -2,7 +2,7 @@
 
 ## :black_nib:Programmer from XJTU :black_nib:
 
-### ![brightgreen](https://img.shields.io/badge/-Post intern in Huawei-brightgreen)![important](https://img.shields.io/badge/-graduate student in xjtu-important)![blueviolet](https://img.shields.io/badge/-HPC-blueviolet)![informational](https://img.shields.io/badge/-DataBase-informational)![red](https://img.shields.io/badge/-Xi'an-red)
+### ![brightgreen](https://img.shields.io/badge/-Post_intern_in_Huawei-brightgreen)![important](https://img.shields.io/badge/-graduate student in xjtu-important)![blueviolet](https://img.shields.io/badge/-HPC-blueviolet)![informational](https://img.shields.io/badge/-DataBase-informational)![red](https://img.shields.io/badge/-Xi'an-red)
 
 ![Language](https://img.shields.io/badge/language-java-brightgreen)
 
