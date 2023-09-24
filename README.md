@@ -10,7 +10,7 @@
 
 ![Language](https://img.shields.io/badge/language-golang-brightgreen)
 
-Hello, it's wuhuua, a individual programmer in XJTU, passionate in DataBase, backEnd tech and HPC.
+Hello, it's wuhuua, an individual programmer in XJTU, passionate in DataBase, backEnd tech and HPC.
 
 Post intern in Huawei Coorpeation.
 
